@@ -1,0 +1,27 @@
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\bin\Debug\Proba poboru danych.exe.config
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\obj\Debug\Proba poboru danych.exe
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\obj\Debug\Proba poboru danych.pdb
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\bin\Debug\MSCL.dll
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\bin\Debug\MSCL_Managed.dll
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\bin\Debug\Proba poboru danych.exe
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\bin\Debug\Proba poboru danych.pdb
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\obj\Debug\Visual MicroStrain.csprojResolveAssemblyReference.cache
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\obj\Debug\Proba_poboru_danych.OknoKonfiguracji.resources
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\obj\Debug\Proba_poboru_danych.Visualization.resources
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\obj\Debug\Proba_poboru_danych.Properties.Resources.resources
+C:\Users\Lunatyk\Desktop\Visual MicroStrain\Proba poboru danych\obj\Debug\Visual MicroStrain.csproj.GenerateResource.Cache
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\bin\Debug\Proba poboru danych.exe.config
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\obj\Debug\Proba poboru danych.exe
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\obj\Debug\Proba poboru danych.pdb
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\obj\Debug\Visual MicroStrain.csprojResolveAssemblyReference.cache
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\obj\Debug\Proba_poboru_danych.OknoKonfiguracji.resources
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\obj\Debug\Proba_poboru_danych.Visualization.resources
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\obj\Debug\Proba_poboru_danych.Properties.Resources.resources
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\obj\Debug\Visual MicroStrain.csproj.GenerateResource.Cache
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\bin\Debug\MSCL.dll
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\bin\Debug\MSCL_Managed.dll
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\bin\Debug\Proba poboru danych.exe
+C:\Users\Lunatyk\Desktop\Visual MicroStrain more nodes\Proba poboru danych\bin\Debug\Proba poboru danych.pdb
+C:\Users\Lunatyk\Desktop\GitHub\Visual-MicroStrain\Visual MicroStrain more nodes\Proba poboru danych\bin\Debug\Proba poboru danych.exe.config
+C:\Users\Lunatyk\Desktop\GitHub\Visual-MicroStrain\Visual MicroStrain more nodes\Proba poboru danych\obj\Debug\Proba poboru danych.exe
+C:\Users\Lunatyk\Desktop\GitHub\Visual-MicroStrain\Visual MicroStrain more nodes\Proba poboru danych\obj\Debug\Proba poboru danych.pdb

@@ -1,0 +1,12 @@
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\bin\Debug\Proba poboru danych.exe.config
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\bin\Debug\Proba poboru danych.exe
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\bin\Debug\Proba poboru danych.pdb
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\obj\Debug\Proba poboru danych.csprojResolveAssemblyReference.cache
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\obj\Debug\Proba_poboru_danych.Properties.Resources.resources
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\obj\Debug\Proba poboru danych.csproj.GenerateResource.Cache
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\obj\Debug\Proba poboru danych.exe
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\obj\Debug\Proba poboru danych.pdb
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\bin\Debug\MSCL.dll
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\bin\Debug\MSCL_Managed.dll
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\obj\Debug\Proba_poboru_danych.Visualization.resources
+C:\Users\Lunatyk\Desktop\Proba poboru danych\Proba poboru danych\obj\Debug\Proba_poboru_danych.OknoKonfiguracji.resources
